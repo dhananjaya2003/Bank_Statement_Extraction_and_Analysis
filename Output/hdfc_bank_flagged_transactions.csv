@@ -1,0 +1,5 @@
+transaction_date,description,withdrawal_amount,deposit_amount,balance,flag_type
+,"Registered Office Address: HDFC Bank House,Senapati Bapat Marg,Lower Parel,Mumbai",40001.0,,3.0,dd_large_withdrawals
+2018-09-07,| IMPS--ARIF-HDFC-XXXXXXXXXXX |,,7.0,1673.42,entity_transactions
+2019-01-05,| IMPS-92-ARIF-HDFC-XXXXXXXXXXX0 00000 |,,5.0,16.83,entity_transactions
+2019-01-05,| IMPS-92-ARIF-HDFC-XXXXXXXXXXX0 00000 |,,5.0,1847.83,entity_transactions
