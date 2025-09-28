@@ -1,0 +1,9 @@
+The deliverables include:
+
+Structured CSV files for account information and transactions.
+
+Python functions for transaction analysis and flagging.
+
+A timeline visualization showing deposits and withdrawals for a specific bank statement (ICICI example).
+
+A summary report describing the methodology, challenges, and future improvements.
